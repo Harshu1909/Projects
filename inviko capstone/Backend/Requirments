@@ -1,0 +1,4 @@
+sudo pip2 install flask
+sudo pip2 install flask-mysqldb
+sudo pip2 install flask-json
+sudo pip2 install flask_peewee
